@@ -1,12 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Gabriell-Braga&color=006bed)
 
-<h3> :woman: &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Information Systems at <a href="https://ufu.br/">UFU (Federal University of Uberlândia)</a>.
-- 💼 &nbsp; Working as a Frontend Developer at <a href="https://gravity.blue/">Blue Gravity Studios</a>.
-- 🌱 &nbsp; Currently learning more about AWS Console, Angular, and Tailwind.
-
 <h3> :rocket: &nbsp;My Skills </h3>
 
 **Applications and Data**
